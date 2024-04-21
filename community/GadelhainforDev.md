@@ -1,5 +1,5 @@
 # Gadelha
-Olá! Sou Gadelha, graduado em Redes de computaodres e esudante Full Stack, estou sempre buscando expandir meus conhecimentos, explorado uma variedade de tecnologias tanto no front-end quanto no back-end.
+Olá! Sou Gadelha, graduado em Redes de computaodres e estudante Full Stack, estou sempre buscando expandir meus conhecimentos, explorado uma variedade de tecnologias tanto no front-end quanto no back-end.
 ## Conecte-se comigo
  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GadelhainforDev)
  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gadelhainfordev@gmail.com)
